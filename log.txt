@@ -1,0 +1,22 @@
+Czas: 2024-04-29:21:50. Opoznienie zapytania: 409 ms. Nieprawidlowy typ odpowiedzi, odpowiedz typu: application/vnd.orangeott.v1+json
+Czas: 2024-04-29:21:51. Opoznienie zapytania: 78 ms. Nieprawidlowy typ odpowiedzi, odpowiedz typu: application/vnd.orangeott.v1+json
+Czas: 2024-04-29:21:51. Opoznienie zapytania: 262 ms. Nieprawidlowy typ odpowiedzi, odpowiedz typu: application/vnd.orangeott.v1+json
+Czas: 2024-04-29:21:51. Opoznienie zapytania: 84 ms. Nieprawidlowy typ odpowiedzi, odpowiedz typu: application/vnd.orangeott.v1+json
+Czas: 2024-04-29:21:51. Opoznienie zapytania: 270 ms. Nieprawidlowy typ odpowiedzi, odpowiedz typu: application/vnd.orangeott.v1+json
+Czas: 2024-04-29:21:51. Opoznienie zapytania: 74 ms. Nieprawidlowy typ odpowiedzi, odpowiedz typu: application/vnd.orangeott.v1+json
+Czas: 2024-04-29:21:51. Opoznienie zapytania: 213 ms. Nieprawidlowy typ odpowiedzi, odpowiedz typu: application/vnd.orangeott.v1+json
+Czas: 2024-04-29:21:51. Opoznienie zapytania: 81 ms. Nieprawidlowy typ odpowiedzi, odpowiedz typu: application/vnd.orangeott.v1+json
+Czas: 2024-04-29:21:51. Opoznienie zapytania: 188 ms. Nieprawidlowy typ odpowiedzi, odpowiedz typu: application/vnd.orangeott.v1+json
+Czas: 2024-04-29:21:51. Opoznienie zapytania: 81 ms. Nieprawidlowy typ odpowiedzi, odpowiedz typu: application/vnd.orangeott.v1+json
+Czas: 2024-04-29:21:51. Ilocs wyslanych pakietow: 54, odebranych: 54 i straconych: 0, czas bladzenia pakietow minimalny: 50, maksymalny: 93 i średni: 57
+Czas: 2024-04-29:21:53. Opoznienie zapytania: 428 ms. Prawidlowa struktura
+Czas: 2024-04-29:21:53. Opoznienie zapytania: 81 ms. Prawidlowa struktura
+Czas: 2024-04-29:21:53. Opoznienie zapytania: 291 ms. Prawidlowa struktura
+Czas: 2024-04-29:21:53. Opoznienie zapytania: 80 ms. Prawidlowa struktura
+Czas: 2024-04-29:21:53. Opoznienie zapytania: 263 ms. Prawidlowa struktura
+Czas: 2024-04-29:21:53. Opoznienie zapytania: 78 ms. Prawidlowa struktura
+Czas: 2024-04-29:21:53. Opoznienie zapytania: 205 ms. Prawidlowa struktura
+Czas: 2024-04-29:21:53. Opoznienie zapytania: 85 ms. Prawidlowa struktura
+Czas: 2024-04-29:21:53. Opoznienie zapytania: 218 ms. Prawidlowa struktura
+Czas: 2024-04-29:21:53. Opoznienie zapytania: 71 ms. Prawidlowa struktura
+Czas: 2024-04-29:21:54. Ilocs wyslanych pakietow: 54, odebranych: 54 i straconych: 0, czas bladzenia pakietow minimalny: 52, maksymalny: 88 i średni: 57

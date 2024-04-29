@@ -22,7 +22,6 @@ function measurePing() {
     let dataString = data.toString();
     buffor += dataString;
     if (dataString.endsWith("\n")) {
-      packetCount++;
       let match = buffor.match(regex);
       if (match) {
         let time = parseInt(match[0].slice(5, match[0].length));
@@ -34,6 +33,7 @@ function measurePing() {
         lostPacketCount++;
       }
       buffor = "";
+      packetCount++;
     }
   });
 
