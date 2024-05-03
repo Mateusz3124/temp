@@ -72,3 +72,14 @@ Czas: 2024-05-03:16:28. Opoznienie zapytania: 385 ms. Prawidlowa struktura
 Czas: 2024-05-03:16:28. Opoznienie zapytania: 78 ms. Prawidlowa struktura
 Czas: 2024-05-03:16:28. Opoznienie zapytania: 194 ms. Prawidlowa struktura
 Czas: 2024-05-03:16:28. Ilosc wyslanych pakietow: 54, odebranych: 54, straconych: 0. Czas bladzenia pakietow minimalny: 51, maksymalny: 587 i średni: 78
+Czas: 2024-05-03:16:46. Opoznienie zapytania: 375 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:46. Opoznienie zapytania: 86 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:46. Opoznienie zapytania: 256 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:46. Opoznienie zapytania: 82 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:46. Opoznienie zapytania: 259 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:46. Opoznienie zapytania: 74 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:46. Opoznienie zapytania: 203 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:47. Opoznienie zapytania: 74 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:47. Opoznienie zapytania: 201 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:47. Opoznienie zapytania: 82 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:47. Ilosc wyslanych pakietow: 54, odebranych: 54, straconych: 0. Czas bladzenia pakietow minimalny: 52 ms, maksymalny: 95 ms i średni: 57 ms

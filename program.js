@@ -38,9 +38,9 @@ const formatPing = (pingValues, time) => {
     pingValues.packetCount
   }, odebranych: ${pingValues.receivedPacketCount}, straconych: ${
     pingValues.lostPacketCount
-  }. Czas bladzenia pakietow minimalny: ${pingValues.minTime}, maksymalny: ${
+  }. Czas bladzenia pakietow minimalny: ${pingValues.minTime} ms, maksymalny: ${
     pingValues.maxTime
-  } i średni: ${pingValues.avgTime}`;
+  } ms i średni: ${pingValues.avgTime} ms`;
 };
 
 const writeToFile = (text) => {
