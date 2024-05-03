@@ -1,5 +1,4 @@
 var validate = require("jsonschema").validate;
-const { request } = require("http");
 const { tcpPing } = require("./tcpPing.js");
 const fs = require("fs");
 
@@ -34,6 +33,16 @@ const formatTime = (time) => {
   return `${year}-${month}-${day}:${hour}:${minute}`;
 };
 
+const formatPing = (pingValues, time) => {
+  return `Czas: ${formatTime(time)}. Ilosc wyslanych pakietow: ${
+    pingValues.packetCount
+  }, odebranych: ${pingValues.receivedPacketCount}, straconych: ${
+    pingValues.lostPacketCount
+  }. Czas bladzenia pakietow minimalny: ${pingValues.minTime}, maksymalny: ${
+    pingValues.maxTime
+  } i średni: ${pingValues.avgTime}`;
+};
+
 const writeToFile = (text) => {
   fs.appendFile("log.txt", text + "\n", function (err) {
     if (err) {
@@ -42,11 +51,10 @@ const writeToFile = (text) => {
   });
 };
 
-const validateResponse = (response, sendDate) => {
-  var time = new Date();
-  const latency = time.getTime() - sendDate;
+const validateResponse = (response, latency) => {
+  let time = new Date();
   if (response.status === 200) {
-    regex = /json/
+    regex = /json/;
     const match = response.headers.get("content-type").match(regex);
     if (match) {
       if (validate(response.data, schema).valid) {
@@ -82,16 +90,6 @@ const validateResponse = (response, sendDate) => {
   }
 };
 
-const formatPing = (pingValues, time) => {
-  return `Czas: ${formatTime(time)}. Ilocs wyslanych pakietow: ${
-    pingValues.packetCount
-  }, odebranych: ${pingValues.receivedPacketCount} i straconych: ${
-    pingValues.lostPacketCount
-  }, czas bladzenia pakietow minimalny: ${pingValues.minTime}, maksymalny: ${
-    pingValues.maxTime
-  } i średni: ${pingValues.avgTime}`;
-};
-
 let counter = 0;
 const interval = setInterval(async () => {
   if (counter === repetitions) {
@@ -107,7 +105,9 @@ const interval = setInterval(async () => {
     method: "GET",
   })
     .then((response) => {
-      validateResponse(response, sendDate);
+      let time = new Date();
+      const latency = time.getTime() - sendDate;
+      validateResponse(response, latency);
     })
     .catch((error) => {
       let time = new Date();

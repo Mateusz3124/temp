@@ -20,3 +20,55 @@ Czas: 2024-04-29:21:53. Opoznienie zapytania: 85 ms. Prawidlowa struktura
 Czas: 2024-04-29:21:53. Opoznienie zapytania: 218 ms. Prawidlowa struktura
 Czas: 2024-04-29:21:53. Opoznienie zapytania: 71 ms. Prawidlowa struktura
 Czas: 2024-04-29:21:54. Ilocs wyslanych pakietow: 54, odebranych: 54 i straconych: 0, czas bladzenia pakietow minimalny: 52, maksymalny: 88 i średni: 57
+Czas: 2024-05-03:16:17. Opoznienie zapytania: 447 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:17. Opoznienie zapytania: 84 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:17. Opoznienie zapytania: 266 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:17. Opoznienie zapytania: 92 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:17. Opoznienie zapytania: 277 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:17. Opoznienie zapytania: 77 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:17. Opoznienie zapytania: 200 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:17. Opoznienie zapytania: 82 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:17. Opoznienie zapytania: 217 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:17. Opoznienie zapytania: 83 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:17. Ilocs wyslanych pakietow: 54, odebranych: 54 i straconych: 0, czas bladzenia pakietow minimalny: 52, maksymalny: 201 i średni: 59
+Czas: 2024-05-03:16:19. Opoznienie zapytania: 485 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:19. Opoznienie zapytania: 85 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:19. Opoznienie zapytania: 273 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:19. Opoznienie zapytania: 88 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:19. Opoznienie zapytania: 209 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:20. Opoznienie zapytania: 89 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:20. Opoznienie zapytania: 210 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:20. Opoznienie zapytania: 84 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:20. Opoznienie zapytania: 207 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:20. Opoznienie zapytania: 81 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:20. Ilosc wyslanych pakietow: 54, odebranych: 54, straconych: 0. Czas bladzenia pakietow minimalny: 51, maksymalny: 86 i średni: 57
+Czas: 2024-05-03:16:23. Opoznienie zapytania: 432 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:23. Opoznienie zapytania: 82 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:23. Opoznienie zapytania: 268 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:23. Opoznienie zapytania: 93 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:23. Opoznienie zapytania: 216 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:24. Opoznienie zapytania: 3705 ms. Problem z polaczeniem, blad: TypeError: fetch failed
+Czas: 2024-05-03:16:24. Opoznienie zapytania: 293 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:24. Opoznienie zapytania: 94 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:24. Opoznienie zapytania: 194 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:24. Opoznienie zapytania: 86 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:24. Opoznienie zapytania: 232 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:25. Opoznienie zapytania: 83 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:25. Opoznienie zapytania: 197 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:25. Opoznienie zapytania: 80 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:25. Opoznienie zapytania: 208 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:25. Ilosc wyslanych pakietow: 54, odebranych: 54, straconych: 0. Czas bladzenia pakietow minimalny: 51, maksymalny: 2094 i średni: 113
+Czas: 2024-05-03:16:26. Opoznienie zapytania: 9129 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:26. Opoznienie zapytania: 3408 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:26. Opoznienie zapytania: 9848 ms. Problem z polaczeniem, blad: ReferenceError: time is not defined
+Czas: 2024-05-03:16:27. Opoznienie zapytania: 430 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:27. Opoznienie zapytania: 86 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:27. Opoznienie zapytania: 275 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:27. Opoznienie zapytania: 87 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:27. Opoznienie zapytania: 256 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:28. Opoznienie zapytania: 79 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:28. Opoznienie zapytania: 180 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:28. Opoznienie zapytania: 385 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:28. Opoznienie zapytania: 78 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:28. Opoznienie zapytania: 194 ms. Prawidlowa struktura
+Czas: 2024-05-03:16:28. Ilosc wyslanych pakietow: 54, odebranych: 54, straconych: 0. Czas bladzenia pakietow minimalny: 51, maksymalny: 587 i średni: 78
